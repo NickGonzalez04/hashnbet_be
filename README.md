@@ -1,4 +1,4 @@
-# Hash-n-Bet Back-End
+# Hash-n-Bet | Back-End
 
 ## Getting Started 
 
@@ -20,5 +20,5 @@
 - [cors](https://github.com/expressjs/cors)
 - [Knex](http://knexjs.org/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
-- [cross-env]https://www.npmjs.com/package/cross-env
+- [cross-env](https://www.npmjs.com/package/cross-env)
 - [bcrypt](https://www.npmjs.com/package/bcrypt)
