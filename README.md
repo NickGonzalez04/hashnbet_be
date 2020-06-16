@@ -1,5 +1,12 @@
 # Hash-n-Bet | Back-End
 
+## Hosted with HeroKu 
+
+
+## First Iteration of Hash-n-Bet Server
+
+- Hash-n-bet will host users and their post exchanges and connect to outside third party payment services allowing users to exchange payment(optional) on the bases of a agreement (bet).
+
 ## Getting Started 
 
 - Fork or directly clone this repository to your local machine
@@ -9,9 +16,11 @@
   - `pg`
   - `knex`
   - `sqlite3`
-  - `Morgan`
-  - `CORS`
+  - `cors`
   - `dotenv`
+  - `cross-env`
+  - `brcypt`
+
 - Once the dependencies are finished installing, use the `npm run server` command inside both the server and the client directories to open the portfolio app in your local browser of choice
 
 ## Stack
