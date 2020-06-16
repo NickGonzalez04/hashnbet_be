@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NickGonzalez04/hashnbet_be.git"
+    "url": "git+https://github.com/Hashnbet/Back-End.git"
   },
   "keywords": [],
   "author": "Nicholas Gonzalez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NickGonzalez04/hashnbet_be/issues"
+    "url": "https://github.com/Hashnbet/Back-End/issues"
   },
-  "homepage": "https://github.com/NickGonzalez04/hashnbet_be#readme",
+  "homepage": "https://github.com/Hashnbet/Back-End#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "cors": "^2.8.5",
